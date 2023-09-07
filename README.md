@@ -1,7 +1,8 @@
 ![Screenshot 2023-09-07 235330](https://github.com/divyanshrajpoot9/NutritionLabel/assets/114856467/f2a289f8-7a94-40bd-a88b-16317fb0aa77)# NutritionLabel
 
 # Hosted Link: https://divyanshrajpoot9.github.io/NutritionLabel/
-HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. Here's a brief description of some of the most commonly used HTML general tags:
+
+## HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. Here's a brief description of some of the most commonly used HTML general tags:
 
 1. `<!DOCTYPE>`: This declaration defines the document type and version of HTML being used. It typically appears at the very beginning of an HTML document.
 
@@ -21,7 +22,7 @@ HTML (Hypertext Markup Language) uses a variety of tags to structure web content
 
 9. `<body>`: Contains the main content of the web page, including text, images, and other elements visible to the user.
 
-10. `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`: Headings that create a hierarchical structure for the content, with `<h1>` being the highest level and `<h6>` the lowest.
+10. `<h1>` Headings that create a hierarchical structure for the content, with `<h1>` being the highest level and `<h6>` the lowest.
 
 11. `<p>`: Defines a paragraph of text.
 
@@ -42,26 +43,6 @@ HTML (Hypertext Markup Language) uses a variety of tags to structure web content
 19. `<br>`: Inserts a line break within text or inline content.
 
 20. `<hr>`: Creates a horizontal rule or line to separate content.
-
-21. `<em>`: Emphasizes text by rendering it in italics.
-
-22. `<strong>`: Emphasizes text with a stronger emphasis, typically rendered as bold.
-
-23. `<blockquote>`: Indicates a block of quoted text.
-
-24. `<q>`: Defines a short inline quotation.
-
-25. `<pre>`: Preserves white spaces and line breaks, useful for displaying code or preformatted text.
-
-26. `<code>`: Used to represent computer code or inline code snippets.
-
-27. `<abbr>`: Specifies an abbreviation or acronym, often with a title attribute providing the full expansion.
-
-28. `<address>`: Represents contact information or author details.
-
-29. `<table>`: Defines a table with rows (`<tr>`), table headers (`<th>`), and table data cells (`<td>`).
-
-30. `<form>`: Used to create input forms for user interaction.
 
 These are some of the fundamental HTML tags that web developers use to structure and format web content. There are many more HTML elements available for specific purposes, but these are some of the most commonly used ones for creating web pages.
 
@@ -132,8 +113,6 @@ These are some of the fundamental HTML tags that web developers use to structure
 32. `animation`: Defines animations for elements, including keyframes, duration, and timing.
 
 33. `overflow`: Controls how content that overflows an element is displayed (e.g., hidden, scroll).
-
-These are some of the most common CSS properties used to style and format web content. CSS provides extensive control over the presentation of HTML elements, making it a powerful tool for web design and layout.
 
 ![Screenshot 2023-09-07 235254](https://github.com/divyanshrajpoot9/NutritionLabel/assets/114856467/233379d5-5cf0-4747-80e2-cc46bf817dd8)
 ![Screenshot 2023-09-07 235303](https://github.com/divyanshrajpoot9/NutritionLabel/assets/114856467/15507420-7401-40a4-bb5f-12796205c170)
